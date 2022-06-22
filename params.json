@@ -1,0 +1,14 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "UdacityProjectTwo"
+	},
+	{
+		"ParameterKey": "VpcCIDR",
+		"ParameterValue": "10.0.0.0/16"
+	},
+	{
+        "ParameterKey": "Instance",
+        "ParameterValue": "t3.medium"
+    }
+]
